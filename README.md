@@ -1,5 +1,5 @@
-# MIT Reality Hackthon 2024
-# Name: We Need Snack
+# MIT Reality Hackathon 2024
+# We Need Snack
 
 ## Introduction
 
@@ -47,4 +47,27 @@ This concise yet impactful presentation content encapsulates the essence of our 
 
 ## Figma Work Link
 
-https://www.figma.com/proto/V0npEYYM4r48UYeCBLhzGj/Reality-Hack?page-id=300%3A48589&type=design&node-id=300-61117&viewport=813%2C426%2C0.03&t=Z56FpQlUdGhRHmZB-1&scaling=min-zoom&starting-point-node-id=300%3A61117&mode=design
+[View our Design on Figma](https://www.figma.com/proto/V0npEYYM4r48UYeCBLhzGj/Reality-Hack?page-id=300%3A48589&type=design&node-id=300-61117&viewport=813%2C426%2C0.03&t=Z56FpQlUdGhRHmZB-1&scaling=min-zoom&starting-point-node-id=300%3A61117&mode=design)
+
+## Slide
+
+![](/Slide/Poster.png)
+![](/Slide/RealityHack_0.png)
+![](/Slide/RealityHack_1.png)
+![](/Slide/RealityHack_2.png)
+![](/Slide/RealityHack_3.png)
+![](/Slide/RealityHack_4.png)
+![](/Slide/RealityHack_5.png)
+![](/Slide/RealityHack_6.png)
+![](/Slide/RealityHack_7.png)
+![](/Slide/RealityHack_8.png)
+![](/Slide/RealityHack_9.png)
+![](/Slide/RealityHack_10.png)
+![](/Slide/RealityHack_11.png)
+![](/Slide/RealityHack_12.png)
+![](/Slide/RealityHack_13.png)
+![](/Slide/RealityHack_14.png)
+![](/Slide/RealityHack_15.png)
+
+## Video
+[![Introduction](/Slide/Poster.png)](https://www.youtube.com/watch?v=0Ip2NDS0Rko)
